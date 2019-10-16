@@ -3,7 +3,7 @@
 int main()
 {
 	int MAT[3][4];
-	int i,j, cont= 0;
+	int i,j;
 
 	
 	printf("Digite valores para preencher uma matriz 3x4\n\n");
